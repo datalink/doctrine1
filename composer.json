@@ -1,7 +1,7 @@
 {
-    "name": "doctrine/doctrine1",
+    "name": "datalink/doctrine1",
     "type": "library",
-    "description": "PHP5 Database ORM",
+    "description": "A maintenance fork of Doctrine 1, a PHP5 Database ORM",
     "keywords": ["orm", "database"],
     "homepage": "http://www.doctrine-project.org",
     "license": "LGPL",
